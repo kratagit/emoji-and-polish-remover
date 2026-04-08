@@ -1,0 +1,1 @@
+# pl-emoji-remover
